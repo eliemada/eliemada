@@ -17,9 +17,9 @@ Currently, I'm diving deep into:
 
 I love to apply what I learn by working on projects. Here are a few highlights:
 
-- **Flight Tracker:** [Link to Project] - TODO
-- **QOI Image Converter:** [Link to Project] - TODO
-- **Snake:** [Link to Project] - TODO
+- **Flight Tracker:** [https://github.com/eliemada/Flight-Tracker] - TODO
+- **QOI Image Converter:** [https://github.com/eliemada/QOI-Image-Converter] - TODO
+- **Snake:** [[Link to Project](https://github.com/eliemada/ICRogue-DungeonAdventure)] - TODO
   
 Feel free to check out my repositories for more interesting projects!
 
@@ -29,7 +29,7 @@ Feel free to check out my repositories for more interesting projects!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elie-bruno)
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:elie.bruno@epfl.ch)
-[![Website Badge](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=Firefox&logoColor=white)](Your-Website-URL)
+[![Website Badge](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=Firefox&logoColor=white)](https://elie-bruno.onrender.com/)
 
 
 
