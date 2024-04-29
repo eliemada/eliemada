@@ -17,9 +17,8 @@ Currently, I'm diving deep into:
 
 I love to apply what I learn by working on projects. Here are a few highlights:
 
-- **Flight Tracker:** [https://github.com/eliemada/Flight-Tracker] - TODO
-- **QOI Image Converter:** [https://github.com/eliemada/QOI-Image-Converter] - TODO
-- **Snake:** [[Link to Project](https://github.com/eliemada/ICRogue-DungeonAdventure)] - TODO
+- **[Flight Tracker:](https://github.com/eliemada/Flight-Tracker)** - Real Time Plane Tracking ! 
+- **[QOI Image Converter:](https://github.com/eliemada/QOI-Image-Converter)** - Converting Images to the QOI file format.
   
 Feel free to check out my repositories for more interesting projects!
 
