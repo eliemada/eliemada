@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"> !
 ---
-I'm Elie BRUNO, a passionate and curious second-year Computer Science student at the Swiss Federal Institude of Technology (EPFL). I'm dedicated to learning and exploring the vast world of computer science, from algorithms and data structures to artificial intelligence and software development.
+I'm Elie BRUNO, a passionate and curious Master student Computer Science student at the Swiss Federal Institude of Technology (EPFL). I'm dedicated to learning and exploring the vast world of computer science, from algorithms and data structures to artificial intelligence and software development.
 
 ---
 
