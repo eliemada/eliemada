@@ -39,6 +39,9 @@ Feel free to check out my repositories for more interesting projects!
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#91](https://github.com/epfml/ML_course/issues/91) in [epfml/ML_course](https://github.com/epfml/ML_course)
+2. 🗣 Commented on [#4649](https://github.com/marimo-team/marimo/issues/4649#issuecomment-3270216885) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+<!--END_SECTION:activity-->
 
 
 <p align="center">
