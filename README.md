@@ -16,14 +16,10 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 
 ➡️ Explore more on [my GitHub profile](https://github.com/eliemada?tab=repositories).
 
-## Skills & Tools
-| Category | Toolkit |
-| --- | --- |
-| Languages | Python · Scala · Java · JavaScript/TypeScript |
-| Frameworks | React · FastAPI · Flask |
-| Infrastructure | Docker · WireGuard · Ubuntu |
-| QA & Automation | Selenium · Pytest |
-| Collaboration | Git · GitHub · Markdown |
+## 💻 My Tech Stack
+
+![🧠 Languages](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A0+Languages&align=center&lineCount=2&theme=github&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=python%2Cpython%2C000000%3Bdata%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BQzwvdGl0bGU%2BPHBhdGggZD0iTTE2LjU5MjEgOS4xOTYycy0uMzU0LTMuMjk4LTMuNjI3LTMuMzljLTMuMjc0MS0uMDktNC45NTUyIDIuNDc0LTQuOTU1MiA2LjE0IDAgMy42NjUxIDEuODU4IDYuNTk3MiA1LjA0NTEgNi41OTcyIDMuMTg0IDAgMy41MzgxLTMuNjY1IDMuNTM4MS0zLjY2NWw2LjEwNDEuMzY1cy4zNiAzLjMxLTIuMTk2IDUuODM2Yy0yLjU1MiAyLjUyNDEtNS42OTAxIDIuOTM3MS03Ljg3NjIgMi45MjAxLTIuMTktLjAxNy01LjIyNjEuMDM0LTguMTYwMi0yLjk3LTIuOTM4LTMuMDEwMS0zLjQzNi01LjkzMDItMy40MzYtOC44MDAyIDAtMi44NzAxLjU1Ni02LjY3MDIgNC4wNDctOS41NTAyQzcuNDQ0LjcyIDkuODQ5IDAgMTIuMjU0IDBjMTAuMDQyMiAwIDEwLjcxNzIgOS4yNjAyIDEwLjcxNzIgOS4yNjAyeiIvPjwvc3ZnPg%3D%3D%2CC%2C%3BNode.js%2CNode.js%2C000000%3B&line2=Latex%2CLatex%2C000000%3BTypst%2CTypst%2C000000%3Breact%2Creact%2C000000%3B)
+
 
 ## Focus Areas
 - 📦 Software engineering for scalable systems and resilient APIs.
