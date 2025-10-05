@@ -31,6 +31,9 @@ Feel free to check out my repositories for more interesting projects!
 [![Website Badge](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=Firefox&logoColor=white)](https://elie-bruno.onrender.com/)
 
 
+<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=eliemada&amp;show_icons=true" alt="GitHub Stats"></p>
 
 ---
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eliemada.eliemada)
