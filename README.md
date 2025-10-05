@@ -33,6 +33,7 @@ Feel free to check out my repositories for more interesting projects!
 
 
 ---
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eliemada.eliemada)
 
 ⭐️ From [eliemada](https://github.com/eliemada)
 
