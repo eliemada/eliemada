@@ -26,9 +26,13 @@ Feel free to check out my repositories for more interesting projects!
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elie-bruno)
-[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:elie.bruno@epfl.ch)
-[![Website Badge](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=Firefox&logoColor=white)](https://elie-bruno.onrender.com/)
+<div align="center">
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elie-bruno)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@eliebruno.com)
+[![Website Badge](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=orange)
+](https://eliebruno.com)
+[![Photos Badge](https://img.shields.io/badge/Photos-%23000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=purple)](https://photos.eliebruno.com)
+</div>
 
 
 ### GitHub Stats
