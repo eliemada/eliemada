@@ -35,8 +35,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#469](https://github.com/0l1v3rr/github-readme-tech-stack/issues/469) in [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack)
-2. 🗣 Commented on [#344](https://github.com/jordanbaird/Ice/issues/344#issuecomment-3369333664) in [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
+1.  Labeled issue [#469](https://github.com/0l1v3rr/github-readme-tech-stack/issues/469) in [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack)
+2. ❗ Opened issue [#469](https://github.com/0l1v3rr/github-readme-tech-stack/issues/469) in [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack)
 
 <!--END_SECTION:activity-->
 
