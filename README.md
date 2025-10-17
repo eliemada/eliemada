@@ -35,8 +35,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.1.0 - Initial Release](https://github.com/eliemada/pre-commit-lfs-size/releases/tag/v0.1.0) in [eliemada/pre-commit-lfs-size](https://github.com/eliemada/pre-commit-lfs-size)
-2. 💪 Opened PR [#4](undefined) in [eliemada/pre-commit-lfs-size](https://github.com/eliemada/pre-commit-lfs-size)
+1. 💪 Opened PR [#5](undefined) in [eliemada/pre-commit-lfs-size](https://github.com/eliemada/pre-commit-lfs-size)
+2. 🚀 Published release [v0.1.0 - Initial Release](https://github.com/eliemada/pre-commit-lfs-size/releases/tag/v0.1.0) in [eliemada/pre-commit-lfs-size](https://github.com/eliemada/pre-commit-lfs-size)
 
 <!--END_SECTION:activity-->
 
