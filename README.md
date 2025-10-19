@@ -10,6 +10,7 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 
 ## Selected Projects
 - **[Ask-Stephanie](https://www.ask-stephanie.xyz/):** Personal AI concierge that dials businesses and manages bookings end-to-end.
+- **[Pre-commit LFS Size](https://github.com/eliemada/pre-commit-lfs-size):** Pre-commit hook to enforce size limits on Git LFS-tracked files.
 - **[Watermarker](https://github.com/franklintra/Watermarker):** High-performance PDF and image watermarking library with CLI + API support.
 - **[Flight Tracker](https://github.com/eliemada/Flight-Tracker):** Real-time aircraft tracker built around live ADS-B data streams.
 - **[QOI Image Converter](https://github.com/eliemada/QOI-Image-Converter):** Lightweight tool for converting images into the QOI lossless format.
