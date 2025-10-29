@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#18](undefined) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
-2. ❗ Opened issue [#17](https://github.com/eliemada/ns-3-project/issues/17) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
+1. 🔒 Closed issue [#17](https://github.com/eliemada/ns-3-project/issues/17) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
+2. 💪 Opened PR [#18](undefined) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
 
 <!--END_SECTION:activity-->
 
