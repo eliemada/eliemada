@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#469](https://github.com/0l1v3rr/github-readme-tech-stack/issues/469#issuecomment-3418332443) in [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack)
-2. 🔒 Closed issue [#469](https://github.com/0l1v3rr/github-readme-tech-stack/issues/469) in [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack)
+1.  Labeled issue [#11](https://github.com/eliemada/ns-3-project/issues/11) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
+2. ❗ Opened issue [#11](https://github.com/eliemada/ns-3-project/issues/11) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
 
 <!--END_SECTION:activity-->
 
