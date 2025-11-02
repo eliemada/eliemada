@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🔓 Reopened issue [#3](https://github.com/eliemada/ns-3-project/issues/3) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
-2. 💪 Opened PR [#19](undefined) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
+1. 🗣 Commented on [#76](https://github.com/obra/superpowers/issues/76#issuecomment-3478391605) in [obra/superpowers](https://github.com/obra/superpowers)
+2. 🔓 Reopened issue [#3](https://github.com/eliemada/ns-3-project/issues/3) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
 
 <!--END_SECTION:activity-->
 
