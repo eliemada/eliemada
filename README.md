@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](undefined) in [eliemada/verbier-whatsapp-bot](https://github.com/eliemada/verbier-whatsapp-bot)
-2. 💪 Opened PR [#27](undefined) in [eliemada/ns-3-project](https://github.com/eliemada/ns-3-project)
+1. ❌ Closed PR [#8](undefined) in [eliemada/verbier-whatsapp-bot](https://github.com/eliemada/verbier-whatsapp-bot)
+2. ❌ Closed PR [#1](undefined) in [eliemada/verbier-whatsapp-bot](https://github.com/eliemada/verbier-whatsapp-bot)
 
 <!--END_SECTION:activity-->
 
