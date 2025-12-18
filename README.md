@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#13](undefined) in [eliemada/cs433_ml_project_2](https://github.com/eliemada/cs433_ml_project_2)
-2. 💪 Opened PR [#13](undefined) in [eliemada/cs433_ml_project_2](https://github.com/eliemada/cs433_ml_project_2)
+1. ❌ Closed PR [#12](undefined) in [eliemada/cs433_ml_project_2](https://github.com/eliemada/cs433_ml_project_2)
+2. ❌ Merged PR [#13](undefined) in [eliemada/cs433_ml_project_2](https://github.com/eliemada/cs433_ml_project_2)
 
 <!--END_SECTION:activity-->
 
