@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#15](https://github.com/eliemada/belcova/pull/15) in [eliemada/belcova](https://github.com/eliemada/belcova)
-2. 🗣 Commented on [#186](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant/issues/186#issuecomment-4290982801) in [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant)
+1. 🎉 Merged PR [#5](https://github.com/eliemada/cs552-faithful-rag/pull/5) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
+2. 💪 Opened PR [#5](https://github.com/eliemada/cs552-faithful-rag/pull/5) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
 
 <!--END_SECTION:activity-->
 
