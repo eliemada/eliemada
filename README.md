@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#40](https://github.com/eliemada/cs552-faithful-rag/pull/40) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
-2. 💪 Opened PR [#40](https://github.com/eliemada/cs552-faithful-rag/pull/40) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
+1. 🎉 Merged PR [#41](https://github.com/eliemada/cs552-faithful-rag/pull/41) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
+2. 💪 Opened PR [#41](https://github.com/eliemada/cs552-faithful-rag/pull/41) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
 
 <!--END_SECTION:activity-->
 
