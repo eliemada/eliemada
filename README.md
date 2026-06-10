@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#268707](https://github.com/Homebrew/homebrew-cask/pull/268707#issuecomment-4663304331) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🚀 Published release [v1.1.0 — M3 Final: Faithful RAG (new SOTA 0.902 MRR)](https://github.com/eliemada/cs552-faithful-rag/releases/tag/v1.1.0) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
+1. 💪 Opened PR [#43371](https://github.com/NousResearch/hermes-agent/pull/43371) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. 🗣 Commented on [#268707](https://github.com/Homebrew/homebrew-cask/pull/268707#issuecomment-4663304331) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 <!--END_SECTION:activity-->
 
