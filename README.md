@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#269853](https://github.com/Homebrew/homebrew-cask/pull/269853) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🎉 Merged PR [#91](https://github.com/eliemada/cs552-faithful-rag/pull/91) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
+1. 🗣 Commented on [#269853](https://github.com/Homebrew/homebrew-cask/pull/269853#issuecomment-4718711721) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 💪 Opened PR [#269853](https://github.com/Homebrew/homebrew-cask/pull/269853) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 <!--END_SECTION:activity-->
 
