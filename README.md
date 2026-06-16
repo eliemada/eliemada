@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#269853](https://github.com/Homebrew/homebrew-cask/pull/269853#issuecomment-4718711721) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 💪 Opened PR [#269853](https://github.com/Homebrew/homebrew-cask/pull/269853) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 🎉 Merged PR [#269853](https://github.com/Homebrew/homebrew-cask/pull/269853) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 🗣 Commented on [#269853](https://github.com/Homebrew/homebrew-cask/pull/269853#issuecomment-4718711721) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 <!--END_SECTION:activity-->
 
