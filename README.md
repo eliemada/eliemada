@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#269853](https://github.com/Homebrew/homebrew-cask/pull/269853) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🗣 Commented on [#269853](https://github.com/Homebrew/homebrew-cask/pull/269853#issuecomment-4718711721) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 🔒 Closed issue [#2](https://github.com/eliemada/edstem-mcp/issues/2) in [eliemada/edstem-mcp](https://github.com/eliemada/edstem-mcp)
+2. 🎉 Merged PR [#3](https://github.com/eliemada/edstem-mcp/pull/3) in [eliemada/edstem-mcp](https://github.com/eliemada/edstem-mcp)
 
 <!--END_SECTION:activity-->
 
