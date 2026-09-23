@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#913](https://github.com/kenn-io/msgvault/pull/913) in [kenn-io/msgvault](https://github.com/kenn-io/msgvault)
-2. 🎉 Merged PR [#3](https://github.com/eliemada/edstem-mcp/pull/3) in [eliemada/edstem-mcp](https://github.com/eliemada/edstem-mcp)
+1. 🎉 Merged PR [#913](https://github.com/kenn-io/msgvault/pull/913) in [kenn-io/msgvault](https://github.com/kenn-io/msgvault)
+2. 💪 Opened PR [#913](https://github.com/kenn-io/msgvault/pull/913) in [kenn-io/msgvault](https://github.com/kenn-io/msgvault)
 
 <!--END_SECTION:activity-->
 
