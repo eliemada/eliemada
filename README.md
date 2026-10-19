@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#913](https://github.com/kenn-io/msgvault/pull/913) in [kenn-io/msgvault](https://github.com/kenn-io/msgvault)
-2. 💪 Opened PR [#913](https://github.com/kenn-io/msgvault/pull/913) in [kenn-io/msgvault](https://github.com/kenn-io/msgvault)
+1. 🎉 Merged PR [#92](https://github.com/eliemada/cs552-faithful-rag/pull/92) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
+2. 💪 Opened PR [#92](https://github.com/eliemada/cs552-faithful-rag/pull/92) in [eliemada/cs552-faithful-rag](https://github.com/eliemada/cs552-faithful-rag)
 
 <!--END_SECTION:activity-->
 
