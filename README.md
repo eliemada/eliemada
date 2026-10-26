@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/eliemada/hiko/pull/1) in [eliemada/hiko](https://github.com/eliemada/hiko)
-2. 🗣 Commented on [#332](https://github.com/ckulka/baikal-docker/pull/332#issuecomment-6331574882) in [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker)
+1. 💪 Opened PR [#1](https://github.com/Pablo-Molla-Charlez/SecondaryModel/pull/1) in [Pablo-Molla-Charlez/SecondaryModel](https://github.com/Pablo-Molla-Charlez/SecondaryModel)
+2. ❌ Closed PR [#1](https://github.com/eliemada/hiko/pull/1) in [eliemada/hiko](https://github.com/eliemada/hiko)
 
 <!--END_SECTION:activity-->
 
