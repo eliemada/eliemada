@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Pablo-Molla-Charlez/SecondaryModel/pull/1) in [Pablo-Molla-Charlez/SecondaryModel](https://github.com/Pablo-Molla-Charlez/SecondaryModel)
-2. 💪 Opened PR [#1](https://github.com/Pablo-Molla-Charlez/SecondaryModel/pull/1) in [Pablo-Molla-Charlez/SecondaryModel](https://github.com/Pablo-Molla-Charlez/SecondaryModel)
+1. 🗣 Commented on [#2993](https://github.com/bitfireAT/davx5-ose/issues/2993#issuecomment-6495218524) in [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)
+2. ℹ️ Reopened PR [#2994](https://github.com/bitfireAT/davx5-ose/pull/2994) in [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)
 
 <!--END_SECTION:activity-->
 
