@@ -36,8 +36,8 @@ Based in Switzerland · Enjoys bridging machine learning research and production
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2993](https://github.com/bitfireAT/davx5-ose/issues/2993#issuecomment-6495218524) in [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)
-2. ℹ️ Reopened PR [#2994](https://github.com/bitfireAT/davx5-ose/pull/2994) in [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)
+1. 🗣 Commented on [#3](https://github.com/chaoyunwang/AADD/issues/3#issuecomment-6801127080) in [chaoyunwang/AADD](https://github.com/chaoyunwang/AADD)
+2. 🗣 Commented on [#2993](https://github.com/bitfireAT/davx5-ose/issues/2993#issuecomment-6495218524) in [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)
 
 <!--END_SECTION:activity-->
 
